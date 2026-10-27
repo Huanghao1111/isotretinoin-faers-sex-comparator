@@ -1,0 +1,4 @@
+# Python dependencies for the two extraction steps (01b, 02).
+# Versions are the ones used for the reported analysis; see sessionInfo.txt for R.
+pandas>=2.2
+numpy>=1.26

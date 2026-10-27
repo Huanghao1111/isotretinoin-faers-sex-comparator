@@ -1,0 +1,10 @@
+data/
+output/
+supplement/
+manuscript/
+submission/
+release/
+logs_*.txt
+.workbuddy/
+*.zip
+*.rds
